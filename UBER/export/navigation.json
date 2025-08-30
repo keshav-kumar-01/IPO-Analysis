@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "id": "surge",
+      "name": "Surge Explorer"
+    },
+    {
+      "id": "reports",
+      "name": "User Reports"
+    },
+    {
+      "id": "carbon",
+      "name": "Carbon Impact"
+    },
+    {
+      "id": "payment",
+      "name": "Payment Explorer"
+    },
+    {
+      "id": "drivers",
+      "name": "Driver Workload"
+    },
+    {
+      "id": "clv",
+      "name": "Customer CLV"
+    },
+    {
+      "id": "recommend",
+      "name": "Recommendations"
+    }
+  ]
+}
