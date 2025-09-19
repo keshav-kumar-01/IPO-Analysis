@@ -1,0 +1,42 @@
+# Ignore system files
+System Volume Information/
+$RECYCLE.BIN/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temp
+*.log
+*.tmp
+
+# Ignore data files that are too large (optional, keep only clean datasets)
+*.csv
+*.xlsx
+*.parquet
+
+# Ignore compiled files
+*.exe
+*.dll
+
+# Ignore images/videos not part of project
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mkv
+
+# Ignore IDE settings
+.vscode/
+.idea/
